@@ -24,3 +24,4 @@ void CleanMap (map<string, Stock> &Beat, map<string, Stock> &Meet, map<string, S
 
 #endif /* Data_Preparation_hpp */
 
+
