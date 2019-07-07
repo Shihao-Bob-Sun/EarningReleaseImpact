@@ -23,3 +23,4 @@ void CleanMap (map<string, Stock> &Beat, map<string, Stock> &Meet, map<string, S
                vector<string> &BeatStock, vector<string> &MeetStock, vector<string> &MissStock, vector<string> &symbolList);
 
 #endif /* Data_Preparation_hpp */
+
