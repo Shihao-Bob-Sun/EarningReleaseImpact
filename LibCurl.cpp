@@ -1,7 +1,6 @@
 
 #include "LibCurl.hpp"
 
-
 size_t write_data(void *ptr, int size, int nmemb, FILE *stream)
 {
     size_t written;
