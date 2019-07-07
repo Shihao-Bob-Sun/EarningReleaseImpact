@@ -13,3 +13,4 @@ using namespace std;
 void PlotResults (vector<double> &CAAR_Beat, vector<double> &CAAR_Meet, vector<double> &CAAR_Miss);
 
 #endif /* Gnuplot_hpp */
+
