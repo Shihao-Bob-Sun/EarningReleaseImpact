@@ -1,1 +1,1 @@
-# EarningReleaseImpactOnStockPrice
+# Earning Release Impact On Stock Price
