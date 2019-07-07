@@ -149,3 +149,4 @@ void CleanMap (map<string, Stock> &Beat, map<string, Stock> &Meet, map<string, S
     
 }
 
+
